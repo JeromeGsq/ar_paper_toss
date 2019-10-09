@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
+    "com.toastapp.folder_structure_generator": "https://github.com/JeromeGsq/unity_toastapp_folder_structure_generator.git",
+    "com.toastapp.mvvm_binding_navigation": "https://github.com/JeromeGsq/unity_toastapp_mvvm_binding_navigation.git#master",
     "com.toastapp.toolbox": "https://github.com/JeromeGsq/unity_toastapp_toolbox.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
@@ -50,9 +53,21 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
+    "com.coffee.upm-git-extension": {
+      "hash": "79fa88282ae1233e4841d87fd256b80f13cd8b62",
+      "revision": "HEAD"
+    },
+    "com.toastapp.folder_structure_generator": {
+      "hash": "d44e59348df200b32716599bea28cf54b97cc79e",
+      "revision": "HEAD"
+    },
     "com.toastapp.toolbox": {
       "hash": "aafc30153289a94fb6b4c4277bbf011dd81bd375",
       "revision": "HEAD"
+    },
+    "com.toastapp.mvvm_binding_navigation": {
+      "hash": "32cf02b044370a93dc97d2e11fd5b59bacf17c6a",
+      "revision": "master"
     }
   }
 }
