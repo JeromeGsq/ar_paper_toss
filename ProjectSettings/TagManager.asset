@@ -6,6 +6,8 @@ TagManager:
   tags:
   - EazyARDetectedPlane
   - EditorMousePos
+  - ManipulationSystem
+  - Props
   layers:
   - Default
   - TransparentFX

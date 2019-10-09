@@ -61,13 +61,13 @@
       "hash": "d44e59348df200b32716599bea28cf54b97cc79e",
       "revision": "HEAD"
     },
+    "com.toastapp.mvvm_binding_navigation": {
+      "hash": "1e5d6b2fe77396d18ca17d6e94f77024356f9577",
+      "revision": "master"
+    },
     "com.toastapp.toolbox": {
       "hash": "aafc30153289a94fb6b4c4277bbf011dd81bd375",
       "revision": "HEAD"
-    },
-    "com.toastapp.mvvm_binding_navigation": {
-      "hash": "32cf02b044370a93dc97d2e11fd5b59bacf17c6a",
-      "revision": "master"
     }
   }
 }

@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Plugins/EasyAR/ARCore Interface/Demo/Scenes/HelloEazyAR.unity
-    guid: 0fc07661ee640b34fb3732393e77f403
+    path: Assets/Scenes/_work.unity
+    guid: 5db9cc60312d3404a973eefe30c1ddd6
   m_configObjects: {}
